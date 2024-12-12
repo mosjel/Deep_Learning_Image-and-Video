@@ -1,0 +1,15 @@
+cython 
+gin-config
+google-api-python-client
+immutabledict
+kaggle
+oauth2client
+pycocotools
+apache-beam
+avro-python3
+sentencepiece
+seqeval
+tensorflow-datasets
+tensorflow-model-optimization
+tensorflow-text
+tensorflow==2.13.0

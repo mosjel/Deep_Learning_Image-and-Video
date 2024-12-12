@@ -1,0 +1,2 @@
+C:\Users\VAIO\Desktop\DSC\Ham Model\Image Samples\sample\*
+C:\Users\VAIO\Desktop\DSC\Ham Model\Beit_features_rev_01_test_RGB.feather
